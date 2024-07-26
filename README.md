@@ -1,4 +1,5 @@
 # Tugas 1
+
 ### (Belajar kolaborasi menggunakan Fork dan Pull Request)
 
 isi biodata di bawah ini
@@ -7,6 +8,6 @@ isi biodata di bawah ini
    <br>
    NIM : 22116022
 
-1. Nama Lengkap : ...
+1. Nama Lengkap : Fikri
    <br>
-   NIM : ...
+   NIM : 22216075
